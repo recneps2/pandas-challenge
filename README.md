@@ -1,2 +1,2 @@
 # pandas-challenge
-Help the school board and mayor make strategic decisions regarding future school budgets and priorities using pandas
+Data analysis on video game purchase data
